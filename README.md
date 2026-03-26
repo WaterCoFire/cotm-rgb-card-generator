@@ -1,6 +1,6 @@
-# Color Card Generator
+# COTM RGB Card Generator
 
-A Python script for generating elegant and minimalist RGB color introduction cards. This tool is used in [WaterCoFire Playground](https://watercofire.com) for introducing the **Color of the Month** series. Fun fact: I searched online but couldn't find a similar, suitable color palette generator, so I wrote a script myself!
+A Python script for generating elegant and minimalist RGB color introduction cards. This tool is used in [WaterCoFire Playground](https://watercofire.com) for introducing the Color of the Month (COTM) series. Fun fact: I searched online but couldn't find a similar, suitable color palette generator, so I wrote a script myself!
 
 > **Note**: This script only works on macOS as it relies on Apple's San Francisco font system.
 
